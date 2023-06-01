@@ -9,9 +9,9 @@ import {
 } from 'react-icons/fa';
 import { FiFileText, FiUser, FiExternalLink } from 'react-icons/fi';
 
-import Work1 from './assets/project-1.jpeg';
+import Work1 from './assets/project-1.jpg';
 import Work2 from './assets/project-2.jpg';
-import Work3 from './assets/project-3.jpeg';
+import Work3 from './assets/project-3.png';
 import Work4 from './assets/project-4.jpeg';
 import Work5 from './assets/project-5.jpg';
 import Work6 from './assets/project-6.jpg';
@@ -170,7 +170,7 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: '2017 - 2021',
     title: 'Matemática <span> Kumon </span>',
-    desc: 'Através do estudo diário deste programa baseado na resolução de folhas de questões, o aluno desenvolve a capacidade de cálculo mental e a confiança para solucionar e encontrar novas formas de resolver os problemas. ',
+    desc: '',
   },
 
   {
@@ -249,13 +249,25 @@ export const skills = [
     title: 'C#',
     percentage: '70',
   },
+
+  {
+    id: 9,
+    title: 'Typescript',
+    percentage: '40',
+  },
+
+  {
+    id: 10,
+    title: 'Python',
+    percentage: '20',
+  },
 ];
 
 export const portfolio = [
   {
     id: 1,
     img: Work1,
-    title: 'Photo Editing',
+    title: 'Edição de Foto',
     details: [
       {
         icon: <FiFileText />,
@@ -265,17 +277,17 @@ export const portfolio = [
       {
         icon: <FiUser />,
         title: 'Client : ',
-        desc: 'Dribble',
+        desc: 'Me',
       },
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: 'Adobe Photoshop',
+        desc: 'Paint Tool Sai',
       },
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: 'www.dribble.com',
+        desc: 'No preview',
       },
     ],
   },
@@ -288,12 +300,12 @@ export const portfolio = [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'Website',
+        desc: 'Website Portfolio',
       },
       {
         icon: <FiUser />,
         title: 'Client : ',
-        desc: 'Dribble',
+        desc: 'Me',
       },
       {
         icon: <FaCode />,
@@ -303,7 +315,7 @@ export const portfolio = [
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: 'www.dribble.com',
+        desc: 'https://portfolio-react-an4lu.vercel.app',
       },
     ],
   },
@@ -311,27 +323,27 @@ export const portfolio = [
   {
     id: 3,
     img: Work3,
-    title: 'Video Editing',
+    title: 'Projeto GreenTech',
     details: [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'Video',
+        desc: 'Aplicativo Reciclagem',
       },
       {
         icon: <FiUser />,
         title: 'Client : ',
-        desc: 'Dribble',
+        desc: 'Hackathon',
       },
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: 'Adobe Premium',
+        desc: 'Prototipagem',
       },
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: 'www.dribble.com',
+        desc: 'No preview',
       },
     ],
   },
@@ -339,7 +351,7 @@ export const portfolio = [
   {
     id: 4,
     img: Work4,
-    title: 'Video Editing',
+    title: 'Edição de Video',
     details: [
       {
         icon: <FiFileText />,
@@ -349,17 +361,17 @@ export const portfolio = [
       {
         icon: <FiUser />,
         title: 'Client : ',
-        desc: 'Dribble',
+        desc: 'Me',
       },
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: 'Adobe Premium',
+        desc: 'After Effects e Filmora',
       },
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: 'www.dribble.com',
+        desc: 'No preview',
       },
     ],
   },
@@ -367,23 +379,23 @@ export const portfolio = [
   {
     id: 5,
     img: Work5,
-    title: 'Landing Page',
+    title: 'Projeto TCC',
     details: [
       {
         title: 'Project : ',
-        desc: 'Website',
+        desc: 'Website para Finanças',
       },
       {
         title: 'Client : ',
-        desc: 'Dribble',
+        desc: 'Etec',
       },
       {
         title: 'Language : ',
-        desc: 'React JS, Node JS',
+        desc: 'Prototipo, ReactJS',
       },
       {
         title: 'Preview : ',
-        desc: 'www.dribble.com',
+        desc: 'https://encr.pw/prototipoTCC',
       },
     ],
   },
@@ -391,27 +403,27 @@ export const portfolio = [
   {
     id: 6,
     img: Work6,
-    title: 'Photo Editing',
+    title: 'Apps em C#',
     details: [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'Photo',
+        desc: 'Calculadora',
       },
       {
         icon: <FiUser />,
         title: 'Client : ',
-        desc: 'Dribble',
+        desc: 'Me',
       },
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: 'Adobe Photoshop',
+        desc: 'C#',
       },
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: 'www.dibble.com',
+        desc: 'github.com/An4lu/Projeto-Calc',
       },
     ],
   },

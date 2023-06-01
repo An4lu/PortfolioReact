@@ -67,7 +67,7 @@
 }
 
 .skills__container{
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     justify-items: center;
     row-gap: 48px;
 }

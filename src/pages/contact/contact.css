@@ -41,6 +41,7 @@
 
 .contact__socials {
     display: flex;
+    padding-top: 18px;
     column-gap: 16px;
 }
 
@@ -68,6 +69,7 @@
 
 .form__input-div{
     margin-bottom: 30px;
+    padding-top: 12px;
 }
 
 .form__control{

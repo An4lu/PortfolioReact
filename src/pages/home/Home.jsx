@@ -1,4 +1,4 @@
-import Profile from "../../assets/home.jpg"
+import Profile from "../../assets/eudomine.png"
 import {Link} from 'react-router-dom'
 import {FaArrowRight} from "react-icons/fa"
 import "./home.css"
