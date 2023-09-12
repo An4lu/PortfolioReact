@@ -150,7 +150,7 @@ export const resume = [
     id: 1,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '2022 - PRESENT',
+    year: '2022 - 2023',
     title: 'Web Developer <span> Estágio </span>',
     desc: 'Desenvolvimento e manutenção de soluções Front-end com SAPUI5, JavaScript, TypeScript, ReactJS, Sass, Styled Componentes, Stitches CSS e Radix.',
   },
@@ -205,7 +205,7 @@ export const skills = [
   {
     id: 1,
     title: 'Html',
-    percentage: '80',
+    percentage: '90',
   },
 
   {
@@ -217,7 +217,7 @@ export const skills = [
   {
     id: 3,
     title: 'Css',
-    percentage: '60',
+    percentage: '80',
   },
 
   {
@@ -235,7 +235,7 @@ export const skills = [
   {
     id: 6,
     title: 'React',
-    percentage: '60',
+    percentage: '80',
   },
 
   {
@@ -253,7 +253,7 @@ export const skills = [
   {
     id: 9,
     title: 'Typescript',
-    percentage: '40',
+    percentage: '70',
   },
 
   {
