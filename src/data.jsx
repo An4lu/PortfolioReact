@@ -103,13 +103,13 @@ export const personalInfo = [
   {
     id: 8,
     title: 'Celular : ',
-    description: '+11 93304856',
+    description: '+11 933604856',
   },
 
   {
     id: 9,
     title: 'Email : ',
-    description: 'ana.dourado@lab2dev.com',
+    description: 'anabluoliveira@outlook.com',
   },
 
   {
