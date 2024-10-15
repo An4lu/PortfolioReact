@@ -73,7 +73,7 @@ export const personalInfo = [
   {
     id: 3,
     title: 'Idade : ',
-    description: '17 Anos',
+    description: '19 Anos',
   },
 
   {
@@ -103,7 +103,7 @@ export const personalInfo = [
   {
     id: 8,
     title: 'Celular : ',
-    description: '+11 933604856',
+    description: '(11) 933604856',
   },
 
   {
@@ -122,7 +122,7 @@ export const personalInfo = [
 export const stats = [
   {
     id: 1,
-    no: '2+',
+    no: '3+',
     title: 'Anos de <br /> Experiência',
   },
 
