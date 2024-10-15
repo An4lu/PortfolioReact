@@ -91,7 +91,7 @@ export const personalInfo = [
   {
     id: 6,
     title: 'Endereço : ',
-    description: 'Cotia',
+    description: 'Cotia - SP',
   },
 
   {
@@ -103,7 +103,7 @@ export const personalInfo = [
   {
     id: 8,
     title: 'Celular : ',
-    description: '(11) 933604856',
+    description: '(11) 93360-4856',
   },
 
   {
