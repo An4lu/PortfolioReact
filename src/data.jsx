@@ -151,8 +151,8 @@ export const resume = [
     category: 'experience',
     icon: <FaBriefcase />,
     year: '2022 - 2023',
-    title: 'Web Developer <span> Estágio </span>',
-    desc: 'Desenvolvimento e manutenção de soluções Front-end com SAPUI5, JavaScript, TypeScript, ReactJS, Sass, Styled Componentes, Stitches CSS e Radix.',
+    title: 'Front-End Developer to Lab2Dev <span> Estágio </span>',
+    desc: 'Desenvolvimento e manutenção de soluções Front-end com SAPUI5, JavaScript, TypeScript e ReactJS. Colaboração em projetos multidisciplinares, entendendo requisitos e entregando soluções eficazes. Manutenção de aplicações existentes, assegurando performance e escalabilidade.',
   },
 
   {
